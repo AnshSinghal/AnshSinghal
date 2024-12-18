@@ -9,7 +9,7 @@
 
 <div align="center">
  
-🔭 I’m currently working on [Talent Insider](https://github.com/AnshSinghal/Talent_Insider)
+🔭 I’m currently working on [DHARA](https://github.com/AnshSinghal/DHARA.github.io)
 
 🌱 I’m currently learning **Java Backend Technologies like Servlet, JDBC, Spring Boot, etc.**
 
