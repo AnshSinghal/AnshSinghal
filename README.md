@@ -1,9 +1,14 @@
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ansh+Singhal!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Ansh+Singhal!;" />
 </h1>
 
-<h3 align="center">A passionate AI and Fullstack Developer from India</h3>
+<div align="center">
+  <img src="hero-anim.gif" alt="GIF" />
+</div>
+
+
+<h3 align="center">An AI and ML Engineer from India</h3>
 
 <br/>
 
@@ -22,6 +27,7 @@
 ⚡ Fun fact **Maybe Dumbledore used Harry Potter as a weapon to kill Voldermort**
 
  </div>
+ 
  
 <div align="center"> 
   <a href="mailto:anshsinghal0001@gmail.com">
