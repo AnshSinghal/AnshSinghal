@@ -15,9 +15,9 @@
 
 🤝 I’m looking for help with [3D Portfolio](https://github.com/AnshSinghal/3d-portfolio-website)
 
-👨‍💻 All of my projects are available at [anshsinghal.tech](anshsinghal.tech)
+👨‍💻 All of my projects are available at [anshsinghal.xyz](anshsinghal.xyz)
 
-📫 How to reach me **anshsinghal0001@gmail.com**
+📫 How to reach me **anshsinghal3107@gmail.com**
 
 ⚡ Fun fact **Maybe Dumbledore used Harry Potter as a weapon to kill Voldermort**
 
