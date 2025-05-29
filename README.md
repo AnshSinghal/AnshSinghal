@@ -22,24 +22,19 @@
 
 👨‍💻 All of my projects are available at [anshsinghal.xyz](anshsinghal.xyz)
 
-📫 How to reach me **anshsinghal3107@gmail.com**
-
 ⚡ Fun fact **Maybe Dumbledore used Harry Potter as a weapon to kill Voldermort**
 
  </div>
  
  
-<div align="center"> 
-  <a href="mailto:anshsinghal0001@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/anshhh-singhal/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://anshsinghal.tech" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
+<p align="center">
+<a href="https://x.com/_Ansh_Singhal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_Ansh_Singhal_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anshhh-singhal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshhh-singhal" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/anshsinghal3107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lakshyasingh354" height="30" width="40" /></a>
+<a href="mailto:anshsinghal3107@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="anshsinghal3107" height="30" width="40" /></a>
+
+</p>
+
 
  <hr/>
  
