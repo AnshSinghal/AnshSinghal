@@ -20,7 +20,7 @@
 
 🤝 I’m looking for help with [3D Portfolio](https://github.com/AnshSinghal/3d-portfolio-website)
 
-👨‍💻 All of my projects are available at [anshsinghal.xyz](anshsinghal.xyz)
+👨‍💻 All of my projects are available at [anshsinghal.tech](anshsinghal.tech)
 
 ⚡ Fun fact **Maybe Dumbledore used Harry Potter as a weapon to kill Voldermort**
 
@@ -28,7 +28,7 @@
  
  
 <p align="center">
-<a href="https://x.com/_Ansh_Singhal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_Ansh_Singhal_" height="30" width="40" /></a>
+<a href="https://x.com/itsAnshSinghal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_Ansh_Singhal_" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/anshhh-singhal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshhh-singhal" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/anshsinghal3107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lakshyasingh354" height="30" width="40" /></a>
 <a href="mailto:anshsinghal3107@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="anshsinghal3107" height="30" width="40" /></a>
